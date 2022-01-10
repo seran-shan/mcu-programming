@@ -20,6 +20,6 @@ void int_to_string(char *timestamp, unsigned int offset, int i);
 void time_to_string(char *timestamp, int h, int m, int s);
 
 // Prototyper
-// legg prototyper for dine funksjoner her
+void set_LED(int on);
 
 #endif
